@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="#fff"
+    tools:context=".Start">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="6">
+
+        <ImageView
+            android:id="@+id/avalon"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:src="@drawable/avalon"
+            android:onClick="avalon"/>
+        <ImageView
+            android:id="@+id/asian"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:onClick="asian"
+            android:src="@drawable/asianpaints"/>
+        <ImageView
+            android:id="@+id/citi"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:onClick="citi"
+            android:src="@drawable/citi"/>
+        <ImageView
+            android:id="@+id/india"
+            android:layout_width="match_parent"
+            android:layout_height="170dp"
+            android:onClick="india"
+            android:src="@drawable/india"/>
+        <ImageView
+            android:id="@+id/jet"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:onClick="jet"
+            android:src="@drawable/jetairways"/>
+        <ImageView
+            android:id="@+id/cap"
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:onClick="cap"
+            android:src="@drawable/capital"/>
+
+    </LinearLayout>
+        </ScrollView>
+
+</LinearLayout>

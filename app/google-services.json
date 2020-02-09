@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "799547065621",
+    "firebase_url": "https://studentdata-12bb2.firebaseio.com",
+    "project_id": "studentdata-12bb2",
+    "storage_bucket": "studentdata-12bb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799547065621:android:ac174f7556c07c14",
+        "android_client_info": {
+          "package_name": "com.example.dhrutiarunmistry.details"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799547065621-fb8stlhnmsiekvgoh973a7nh2sevo4hq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUKsO2V-tikPRujbUGsrsJDgtQIvQQVNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

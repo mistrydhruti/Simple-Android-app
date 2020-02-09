@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">Student</string>
+    <string name="title_activity_viewpager">Viewpager</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="placement"><b><i><u>Dear Final Year Students,</u></i></b>\n\n Soon you will qualify to be called ex-Xavierites and will be part of our Alumni! Is that a heady feeling or does it scare you somewhat? Many feel a touch of regret to be leaving this beautiful campus, for the challenges of Corporate Life.\n\n St. Xavier’s College is eager to reach out to help you make that transition.\n\n In the academic year, 2017 – 2018, the Placement Cell brought on campus potential Employers which resulted in confirmed offers to around 140 students. This year, we will try and do even better. Plans are afoot for an online Planner on this site, w.e.f. July 11th, 2018, which will tell you which Employer is coming on what day. We will make available to you, a note on Career Planning, have a Placement Orientation sometime in July 2018 with interactive talks. Provided students are willing to commit to attending in large numbers, we will organize a Workshop on CV preparation, early in the year, followed by a session on mock interviews, bringing out the dos and don’ts of interviewing.\n\n\n <b><i><u>Placement Policy:</u></i></b> \n\n At the outset, we would request all our dear final year students to understand the underlying rationale behind our Placement Policy. Students who appear and decline job offers or who accept and hold more than one offer; deprive fellow students of an employment opportunity. More importantly, Employers who have St. Xavier’s College Students withdrawing; invariably lose faith in the students of the College and may not come back in the following year. This works to the detriment of the Student Body at large.\n\n Following our Career Planning advice, students are expected to attend as many of the Pre-Placement Talks, as possible, by Campus Visitors, with a view to focusing on a Career. We will announce the names of Employers who confirm plans to visit, as soon as the same becomes known. Remember, if you find the right Career role, in a Company where merit is recognized, then the sky is the limit. We urge you to study the job description, consult with a mentor and ask yourself if it is commensurate with your Career Plans, Aptitude, and Educational background. If yes, then get to know about the Employer, from their Company website, before attending the talk.\n\n Students should feel free to ask the Campus Visitor any reasonable question e.g. location of job and transfer policy, Compensation and Career progression, terms and conditions e.g is there a bond? Remember in Offer letters, Employers give very brief details. Terms and Conditions are usually given in an Employee Handbook, which is given to new recruits only on joining i.e when they actually become employees.\n\n</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="india"><b><i><u>INDIABULLS HOUSING FINANCE LIMITED</u></i></b>\n\n <b>Our Goals</b>\n\n To ensure utmost convenience in the home buying experience\n Making housing finance more affordable/viable by contributing towards the organization of the housing finance sector In keeping with the principle to continually working towards greater customer convenience.we are equipped to tend to you over our website and mobile application with with e-Home Loans providing completely online home loans  from application to disbursal. The entire gamut of our services will assist you in an all-inclusive home buying experience is available for you to avail anytime and anywhere. </string>
+    <string name="citi"><b><u><i>CITIBANK INDIA</i></u></b>\n\n Citi India is the only foreign bank in India with a full service onshore platform in the country. Its India headquarters is at Bandra Kurla Complex, Mumbai, Maharashtra. It is a subsidiary of Citigroup,[1] a multinational financial services corporation headquartered in New York City, United States. Citi India comprises investment banking, advisory and transaction services, capital markets, risk management solutions, retail banking, and cards.\n Citi works tirelessly to provide consumers, corporations, governments and institutions with a broad range of financial services and products. We strive to create the best outcomes for our clients and customers with financial ingenuity that leads to solutions that are simple, creative and responsible.</string>
+    <string name="capitalfirst"><b><i><u>Vision</u></i></b>\n\nTo be a leading financial services provider- admired and respected for high corporate governance, ethics and values.\nTo primarily support the growth of MSMEs in India with debt capital through technology enabled platforms and processes.\nTo finance the aspirations of the Indian Consumers using new-age analytics and technology solutions.\n\n </string>
+    <string name="bluestar"><b><i><u>THE BLUE STAR WAY</u></i></b>\n\nEmployees at Blue Star come from various walks of life, and this mix of people provides for a rich mix of diversity in all its aspects, be it geography, ethnicity, language, gender, religion, caste or creed. A job at Blue Star isn’t just about a career. It inculcates in the employee a whole new way of life. It is called the Blue Star Way.\n People, Processes and Practices are the three cornerstones of Blue Star’s pursuit towards excellence.\n Business in the Company is not just about the bottom line, it is about building people. Employees cherish the freedom that is provided to them at work and this will continue to be the Company’s proposition at all times. All employee training and processes are focused on this primary purpose – to develop good employees, and more importantly, to nurture and grow the best.\n </string>
+    <string name="asian"><b><u><i>Vision</i></u></b> \n\n We want to be an innovative, agile, and responsive world class research and technology organisation that’s aligned to future customer needs and catalyses the growth of the company across existing and future businesses\n\<b><u><i>Overview</i></u></b>\n\n An opportunity to work with the best. An environment that celebrates diversity and values integrity. Constantly pushing beyond boundaries. A learning journey of a lifetime. Sky high benchmarks of performance. A fair and transparent rewards philosophy behind it all. Welcome to Asian Paints. Are you up for a dare?</string>
+    <string name="avalon"><i><b><u>ABOUT</u></b></i>\n\nWith an experienced staff and hundreds of successful deployments, Avalon’s sole focus is helping clients solve their unique IT business challenges with a refreshing, customer-friendly approach to projects of all sizes. \n\n We leverage our unparalleled service into client business solutions that return value through simplicity and technological superiority. And, with our purchasing power and implementation know-how, bringing Avalon onboard can often lower overall project costs. Ultimately, it’s the client’s success that is our one and only true benchmark.\n\n <b><i><u>MISSION</u></i></b> \n\n Dedication to our clients\nRespect for our partners\n Continuous product and service innovation</string>
+    <string name="title_activity_navigation">navigation</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Local Activities</string>
+    <string name="title_notifications">Jobs</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Main">
+        <item>Castle</item>
+        <item>Kitkat</item>
+        <item>Jyoti</item>
+        <item>Bagdadi</item>
+        <item>Bade Miyan</item>
+        <item>Sunlight</item>
+        <item>Baadshah</item>
+    </string-array>
+
+    <string-array name="Description">
+        <item>A people friendly staff, Soulful Food at affordable prices. Whatelse does a young, dumb and broke student need in lyf XD</item>
+        <item>A family restaurant (Wink wink). No more comments.</item>
+        <item>If u want to go somewhere fancy but u know ur aukad. Dont worry they got u covered</item>
+        <item>If u look for ambience when u go out then this is not your place. But if u want to eat a whole murga then welcome Amigos.</item>
+        <item>U probably know about this place. But if udont dude get a lyf</item>
+        <item>Decent food, Loud Music and badass customers u find all of this over here.</item>
+        <item>Great food, Ambience Recommended by our expert Named Angelina. Proceed with caution XD.Speciality Desh drohi Biryani</item>
+    </string-array>
+
+    <string-array name="Main1">
+        <item>Asian Paints</item>
+        <item>Avalon</item>
+        <item>Blue</item>
+        <item>Capital</item>
+        <item>Citi Bank</item>
+        <item>India Bulls</item>
+        <item>Jet Airways</item>
+    </string-array>
+
+    <string-array name="Description1">
+        <item>Its the best paint manifactoring company</item>
+        <item>Its an auto price finder.It provides best auto drivers with least cost</item>
+        <item>An independent accounting and advisory firm with more than 400 people in 10 offices across India</item>
+        <item>An American financial service company and ranks among the worlds oldest and largest investment management organisations</item>
+        <item>Citibank is the consumer division of financial services multinational Citigroup</item>
+        <item>One of the largest housing finance company based on gurgaon</item>
+        <item>The best flying experience you can have</item>
+
+    </string-array>
+</resources>
+
